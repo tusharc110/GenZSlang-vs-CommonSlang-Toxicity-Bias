@@ -1,0 +1,21 @@
+Phrase,Toxicity Score,Classification
+That's a big yikes from me.,0.05651112,Non-Toxic
+That's a stupid idea.,0.6667219,Toxic
+This song is so ass.,0.85333383,Toxic
+I detest this melody.,0.33504707,Non-Toxic
+This grub is straight-up so horrible.,0.4475325,Non-Toxic
+This food is outright repulsive.,0.31963667,Non-Toxic
+Homie's a legit clown.,0.4977744,Non-Toxic
+He's a bona fide buffoon.,0.51980776,Toxic
+"They're not just late, they're last century late.",0.02779579,Non-Toxic
+Their chronic lateness is a flagrant defiance of time.,0.14429577,Non-Toxic
+That movie was so bad omfg.,0.50503236,Toxic
+That cinematic disaster is a masterclass in tedium.,0.103060275,Non-Toxic
+"Bro's got an ego the size of a planet, no cap ong fr.",0.2524482,Non-Toxic
+Their egomania is a colossal spectacle of self-obsession.,0.2854835,Non-Toxic
+Bro is so stupid he's like the punching bag of the group,0.8403191,Toxic
+"He's the grandmaster of fools, without a doubt.",0.6588125,Toxic
+Bro is allergic to being a good person,0.28312725,Non-Toxic
+He always refrains from being a good person.,0.112333365,Non-Toxic
+Yo mama so fat,0.7105462,Toxic
+Their mother is quite obese.,0.4977744,Non-Toxic
