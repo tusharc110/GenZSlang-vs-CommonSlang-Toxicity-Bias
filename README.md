@@ -18,7 +18,7 @@ In my study, my categories of data are as follows:
 
 These results indicate that while the Perspective API is very accurate at identifying non-toxic phrases regardless of Gen-Z or common English slang, it is less effective at identifying toxic phrases, with Gen-Z yielding a slightly higher accuracy. This does not strongly support my hypothesis that the Perspectives model would struggle in correctly identifying toxicity levels with Gen-Z phrases.
 
-### Biases 
+### Biases and Loopholes
 As these phrases were developed organically by me, I may be biased with my vocabulary in terms of my cadence and word choice in my phrases, which may not holistically represent the wide variety of lexicons around the world. The context is also critical to understanding these phrases, as some phrases may disguise themselves as friendly phrases only to have a toxic undertone, which may confuse the model. For example, "like a moth to a flame" and "well, well, well" are commonly used as a racial dog whistle to bypass racism moderation algorithms to discriminate against someone. In the same way, these seemingly yet not innocuous phrases can avoid the toxicity algorithm, which may have occurred during testing. 
 
 ### Insights
