@@ -25,4 +25,4 @@ As these phrases were developed organically by me, I may be biased with my vocab
 My study could have benefitted from a much larger, more formal dataset. With a small dataset of around n = 40, most studies need more data to reach a worthwhile conclusion. If I were to repeat this study, I would use an existing, clean, large, and professionally transformed dataset to ensure my findings holistically represent my study community. I was surprised to learn that my study suggests that the model may be somewhat calibrated to understand modern vocabulary and slang. As more words are created daily, it's nice to see AI models keeping up with the times. 
  
 ### DISCLAIMER
-The phrases I wrote in the py.ipynb file are only for testing and research purposes. The phrases do not represent my personal thoughts or ideals whatsoever, and any relevance to my personal thoughts or ideals is purely coincidental. 
+The phrases I wrote in the py.ipynb file are only for testing and research purposes. The phrases do not represent my personal thoughts or ideals whatsoever.
